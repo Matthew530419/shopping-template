@@ -66,8 +66,18 @@
 
   - Occurred when put in `git pull origin main --alow-unrelated-histories`
   - No origin branch on remote storage
-  - Countermeasure: `git remote remove shopping-template`
+  - Countermeasure: `git remote remove shopping-template`  
     `git remote add origin https://github.com/Matthew530419/shopping-template.git`
+
+- error : You have not concluded your merge (MERGE_HEAD exists)
+  fatal: Exiting because of unfinished merge
+  - Occurred after modified comments on remote section
+  - I don't know that unmerged path: appear not modified: exactly
+    ![fatal](./fatal/unfinished-merged.png)
+  - Countermeasure : `git merge --abort`  
+    `git add README_shopping-template.md`  
+    `git commit` (to conclude merge)  
+    `git pull`
 
 ###7. Appreciation
 
