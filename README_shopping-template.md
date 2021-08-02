@@ -9,7 +9,7 @@
   
 ###4. Main functions  
   
-<img src="img/combine.jpg" alt="screen shot">
+<img src="img/combine.JPG" alt="screen shot">
 
 <!--###5. Architecture diagram-->
 
