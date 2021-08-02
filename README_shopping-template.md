@@ -81,3 +81,8 @@
     for DRY
 - To display on what I want needs many kinds of source codes when clicking button simple event. If complicated event, I would write more and more source codes simply, comply with rules using skills for readable code
 - It was difficult for me to combine with images on the web. But, I tried several times. I knew common code is `<ul><li></li></ul>` format using HTML with CSS.
+- I use code for uploading
+  combined image file because another code wasn't execute on the remote section, but, executed on local.
+  used code : `![combine](./img/combine.JPG)`
+  another code : `<img src="img/combine.JPG" alt="Screen shot">`
+  I don't know why another code wasn't execute on git readme section. This code could execute on preview of markdown.
