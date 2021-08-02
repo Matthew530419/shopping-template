@@ -1,20 +1,19 @@
+#First application using filter when clicking on button event
 
-#First application using filter when clicking on button event  
-  
-###1. Project name : shopping-template game  
-  
-###2. Technologies stack : HTML, CSS, Javascript  
-  
-###3. Period : 1 week  
-  
-###4. Main functions  
-  
-<img src="img/combine.JPG" alt="screen shot">
+###1. Project name : shopping-template game
+
+###2. Technologies stack : HTML, CSS, Javascript
+
+###3. Period : 1 week
+
+###4. Main functions
+
+![combine](./img/combine.JPG)
 
 <!--###5. Architecture diagram-->
 
-###5. Interpreting several codes  
-  
+###5. Interpreting several codes
+
 `HTML`
 
 - `<!DOCTYPE html>`: Declared HTML version is announced to browser
