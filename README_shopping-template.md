@@ -13,7 +13,8 @@
 
 <!--###5. Architecture diagram-->
 
-###5. Interpreting several codes
+###5. Interpreting several codes  
+  
 `HTML`
 
 - `<!DOCTYPE html>`: Declared HTML version is announced to browser
