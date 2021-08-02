@@ -9,7 +9,7 @@
   
 ###4. Main functions  
   
-![combine](https://user-images.githubusercontent.com/84918633/127805099-ead528d0-4a90-4e39-a96f-37222a80de68.JPG)
+<img src="img/combine.jpg" alt="screen shot">
 
 <!--###5. Architecture diagram-->
 
