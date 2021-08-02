@@ -1,9 +1,9 @@
 
-#First application using filter when clicking on button event
-###1. Project name : shopping-template game
-###2. Technologies stack : HTML, CSS, Javascript
-###3. Period : 1 week
-###4. Main functions
+#First application using filter when clicking on button event  
+###1. Project name : shopping-template game  
+###2. Technologies stack : HTML, CSS, Javascript  
+###3. Period : 1 week  
+###4. Main functions  
 ![combine](https://user-images.githubusercontent.com/84918633/127805099-ead528d0-4a90-4e39-a96f-37222a80de68.JPG)
 
 <!--###5. Architecture diagram-->
