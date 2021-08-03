@@ -8,7 +8,6 @@
 
 ###4. Main functions
 
-![combine](img/combine.JPG)
 <img src="img/combine.JPG" alt="Screen shot">
 
 <!--###5. Architecture diagram-->
