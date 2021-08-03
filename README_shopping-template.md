@@ -97,3 +97,5 @@
   used code : `![combine](./img/combine.JPG)`
   another code : `<img src="img/combine.JPG" alt="Screen shot">`
   I don't know why another code wasn't execute on git readme section. This code could execute on preview of markdown.
+  However, I tried img code. First, `<img src="./img/combine.JPG" alt="Screen shot">` this code execute and then `<img src="img/combine.JPG" alt="Screen shot">` successfully execute.
+  root directory is shopping-template folder and subdirectory is img folder. `./` address don't need once again after `./` address used on web. Correct? I think `/` means setting full/absolute path on web.
