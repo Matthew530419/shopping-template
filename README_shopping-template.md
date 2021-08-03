@@ -98,4 +98,5 @@
   another code : `<img src="img/combine.JPG" alt="Screen shot">`
   I don't know why another code wasn't execute on git readme section. This code could execute on preview of markdown.
   However, I tried img code. First, `<img src="./img/combine.JPG" alt="Screen shot">` this code execute and then `<img src="img/combine.JPG" alt="Screen shot">` successfully execute.
-  root directory is shopping-template folder and subdirectory is img folder. `./` address don't need once again after `./` address used on web. Correct? I think `/` means setting full/absolute path on web.
+  My web address is `https://github.com/Matthew530419/shopping-template.git`.
+  root directory is shopping-template folder and subdirectory is img folder. `./` address don't need once again after `./` address used on web. Correct? I know no matter what `./` write down relative path, but, before setting subdirectory is not execute, after setting subdirectory is execute. I don't know exact reason.
