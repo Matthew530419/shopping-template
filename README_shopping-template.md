@@ -8,7 +8,7 @@
 
 ###4. Main functions
 
-<img src="img/positioned-images-on-2-lists.JPG" alt="Screen shot">
+<img src="./img/positioned-images-on-2-lists.JPG" alt="Screen shot">
 
 <!--###5. Architecture diagram-->
 
