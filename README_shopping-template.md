@@ -8,7 +8,7 @@
 
 ###4. Main functions
 
-<img src="img/positioned-images-on-2-lists.JPG" alt="Screen shot">
+<img src="img/img-on-2-lists.png" alt="Screen shot">
 
 <!--###5. Architecture diagram-->
 
@@ -93,9 +93,9 @@
 - It was difficult for me to combine with images on the web. But, I tried several times. I knew common code is `<ul><li></li></ul>` format using HTML with CSS.
 - I use code for uploading
   combined image file because another code wasn't execute on the remote section, but, executed on local.
-  used code : `![combine](./img/positioned-images-on-2-lists.JPG)`
-  another code : `<img src="img/positioned-images-on-2-lists.JPG" alt="Screen shot">`
+  used code : `![combine](./img/img-on-2-lists.png)`
+  another code : `<img src="img/img-on-2-lists.png" alt="Screen shot">`
   I don't know why another code wasn't execute on git readme section. This code could execute on preview of markdown.
-  However, I tried img code. First, `<img src="./img/positioned-images-on-2-lists.JPG" alt="Screen shot">` this code execute and then `<img src="img/positioned-images-on-2-lists.JPG" alt="Screen shot">` successfully execute.
+  However, I tried img code. First, `<img src="./img/img-on-2-lists.png" alt="Screen shot">` this code execute and then `<img src="img/img-on-2-lists.png" alt="Screen shot">` successfully execute.
   My web address is `https://github.com/Matthew530419/shopping-template.git`.
   root directory is shopping-template folder and subdirectory is img folder. `./` address don't need once again after `./` address used on web. Correct? I know no matter what `./` write down relative path, but, before setting subdirectory is not execute, after setting subdirectory is execute. I don't know exact reason.
